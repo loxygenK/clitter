@@ -1,2 +1,4 @@
-# clitter
-Explore twitter from CLI
+# Clitter
+コンソールからTwitterをするために作ろうとしているソフトをぶち込むだけのリポです<br>
+特に命名センスなどは存在しません<br>
+~~何も決まってないので ***†Approve†*** されたら決めます~~
